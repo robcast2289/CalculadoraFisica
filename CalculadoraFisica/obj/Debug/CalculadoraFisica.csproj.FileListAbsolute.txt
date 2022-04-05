@@ -12,3 +12,17 @@ c:\users\roberto\source\repos\CalculadoraFisica\CalculadoraFisica\obj\Debug\Calc
 c:\users\roberto\source\repos\CalculadoraFisica\CalculadoraFisica\obj\Debug\CalculadoraFisica.SumVectores.resources
 c:\Users\Roberto\source\repos\CalculadoraFisica\CalculadoraFisica\obj\Debug\CalculadoraFisica.InfoSistema.resources
 c:\Users\Roberto\source\repos\CalculadoraFisica\CalculadoraFisica\obj\Debug\CalculadoraFisica.MovProyectiles.resources
+C:\Users\Roberto\repositories\CalculadoraFisica\CalculadoraFisica\bin\Debug\CalculadoraFisica.exe.config
+C:\Users\Roberto\repositories\CalculadoraFisica\CalculadoraFisica\bin\Debug\CalculadoraFisica.exe
+C:\Users\Roberto\repositories\CalculadoraFisica\CalculadoraFisica\bin\Debug\CalculadoraFisica.pdb
+C:\Users\Roberto\repositories\CalculadoraFisica\CalculadoraFisica\obj\Debug\CalculadoraFisica.csprojAssemblyReference.cache
+C:\Users\Roberto\repositories\CalculadoraFisica\CalculadoraFisica\obj\Debug\CalculadoraFisica.CalcConversion.resources
+C:\Users\Roberto\repositories\CalculadoraFisica\CalculadoraFisica\obj\Debug\CalculadoraFisica.InfoSistema.resources
+C:\Users\Roberto\repositories\CalculadoraFisica\CalculadoraFisica\obj\Debug\CalculadoraFisica.MainForm.resources
+C:\Users\Roberto\repositories\CalculadoraFisica\CalculadoraFisica\obj\Debug\CalculadoraFisica.MovProyectiles.resources
+C:\Users\Roberto\repositories\CalculadoraFisica\CalculadoraFisica\obj\Debug\CalculadoraFisica.Properties.Resources.resources
+C:\Users\Roberto\repositories\CalculadoraFisica\CalculadoraFisica\obj\Debug\CalculadoraFisica.SumVectores.resources
+C:\Users\Roberto\repositories\CalculadoraFisica\CalculadoraFisica\obj\Debug\CalculadoraFisica.csproj.GenerateResource.cache
+C:\Users\Roberto\repositories\CalculadoraFisica\CalculadoraFisica\obj\Debug\CalculadoraFisica.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\repositories\CalculadoraFisica\CalculadoraFisica\obj\Debug\CalculadoraFisica.exe
+C:\Users\Roberto\repositories\CalculadoraFisica\CalculadoraFisica\obj\Debug\CalculadoraFisica.pdb
