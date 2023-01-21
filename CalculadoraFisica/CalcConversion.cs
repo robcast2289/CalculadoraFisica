@@ -57,6 +57,7 @@ namespace CalculadoraFisica
         #region Carga de datos
         public void cargarLongitud()
         {
+            Longitud.Add(new Valores() { nombre = "Milímetros", medidaOriginal = "mm", medidaMasPequea = 0.1 });
             Longitud.Add(new Valores() { nombre = "Centímetros", medidaOriginal = "cm", medidaMasPequea = 1 });
             Longitud.Add(new Valores() { nombre = "Pulgadas", medidaOriginal = "plg", medidaMasPequea = 2.54 });
             Longitud.Add(new Valores() { nombre = "Pies", medidaOriginal = "pie", medidaMasPequea = 30.48 });
